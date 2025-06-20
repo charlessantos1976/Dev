@@ -1,0 +1,17 @@
+{
+  "resourceGroupName": "myResourceGroup",
+  "location": "East US",
+  "vmName": "myVirtualDesktop",
+  "vmSize": "Standard_DS1_v2",
+  "adminUsername": "azureuser",
+  "adminPassword": "P@ssw0rd123!",
+  "osDiskSizeGB": 128,
+  "imagePublisher": "MicrosoftWindowsDesktop",
+  "imageOffer": "Windows-10",
+  "imageSku": "19h2-pro",
+  "networkInterfaceName": "myNIC",
+  "vnetName": "myVNet",
+  "subnetName": "mySubnet",
+  "publicIpName": "myPublicIP",
+  "securityGroupName": "myNetworkSecurityGroup"
+}
